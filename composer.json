@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "nuwave/lighthouse": "dev-master",
+        "nuwave/lighthouse": "^2.1.1",
         "illuminate/support": "^5.4",
         "illuminate/redis": "^5.4",
         "illuminate/broadcasting": "^5.4",
